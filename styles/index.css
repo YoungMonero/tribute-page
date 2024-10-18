@@ -36,6 +36,15 @@ img:hover{
 }
 .imgs{
     text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p{
+    line-height: 1.8;
+    margin-bottom: 20px;
+    color: #666;
+    font-size: 1.1em;
+}
+body{
+    background-color: rgb(174, 217, 235);
 
 
 
